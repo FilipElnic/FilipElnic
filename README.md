@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/filip-elznic-8231a82a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filip-elznic-8231a82a4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/filip-elznic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filip-elznic-8231a82a4" height="30" width="40" /></a>
 <a href="https://fb.com/filip.elznic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="filip.elznic" height="30" width="40" /></a>
 <a href="https://instagram.com/fprofilipka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fprofilipka" height="30" width="40" /></a>
 <a href="https://discord.gg/552840179908476939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="552840179908476939" height="30" width="40" /></a>
